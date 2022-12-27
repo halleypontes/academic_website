@@ -41,7 +41,7 @@ The IGDS9-SF has been widely used in research on disordered gaming and several c
 
 * **[Korean](https://doi.org/10.1089/cyber.2020.0227)**: Download **[here](https://drive.proton.me/urls/WDP0Y8119M#punl76rb52oO)**
 
-* **[Malay Study 1](https://doi.org/10.1007/s12144-020-00668-6)** / **[Malay Study 2](https://doi.org/10.3390/ijerph18052592)**: Download **[here](https://drive.proton.me/urls/0NBF4BK1QR#OiZzWu0Au9fU)**
+* **[Malay Study 1](https://doi.org/10.1007/s12144-020-00668-6)**/**[Malay Study 2](https://doi.org/10.3390/ijerph18052592)**: Download **[here](https://drive.proton.me/urls/0NBF4BK1QR#OiZzWu0Au9fU)**
 
 * **[Slovenian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.042)**: Download  **[here](https://drive.proton.me/urls/GYAG5KSYGR#qEBnfq1yIyDW)**
 
@@ -55,7 +55,7 @@ The IGDS9-SF has been widely used in research on disordered gaming and several c
 
 * **[Portuguese (South American)](https://doi.org/10.1016/j.addbeh.2019.106191)**: Download **[here](https://drive.proton.me/urls/HWS6F68VBW#OLLodan12f0M)**
 
-* **[Spanish Study 1](https://doi.org/10.3390/ijerph17051562)** / **[Spanish Study 2](https://doi.org/10.1017/SJP.2020.26)** / **[Spanish Study 3](https://doi.org/10.3390/ijerph17197111)**: Download **[here](https://drive.proton.me/urls/FPT3EJQ74G#r3UWXAW48XrC)**
+* **[Spanish Study 1](https://doi.org/10.3390/ijerph17051562)**/**[Spanish Study 2](https://doi.org/10.1017/SJP.2020.26)**/**[Spanish Study 3](https://doi.org/10.3390/ijerph17197111)**: Download **[here](https://drive.proton.me/urls/FPT3EJQ74G#r3UWXAW48XrC)**
 
 * **[Turkish](https://doi.org/10.1016/j.psychres.2018.05.002)**: Download **[here](https://drive.proton.me/urls/NYEGWFG704#qjxlpOEjI6H1)**
 
