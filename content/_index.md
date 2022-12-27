@@ -76,7 +76,7 @@ sections:
     filters:
       featured_only: true
       folders:
-      - publication
+      - publications
     title: Featured Publications
   design:
     columns: "2"
@@ -89,7 +89,7 @@ sections:
     filters:
       exclude_featured: true
       folders:
-      - publication
+      - publications
     text: |-
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
