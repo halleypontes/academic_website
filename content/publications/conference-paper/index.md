@@ -11,10 +11,10 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Robert Ford
+#- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

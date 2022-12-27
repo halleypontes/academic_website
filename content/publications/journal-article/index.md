@@ -7,14 +7,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 author_notes:
-- Equal contribution
-- Equal contribution
+#- Equal contribution
+#- Equal contribution
 authors:
 - admin
-- Robert Ford
+#- Robert Ford
 date: "2015-09-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
