@@ -100,7 +100,27 @@ sections:
     view: citation
   id: publications
 
-#featured blog posts
+#Menu 'Tests'
+- block: collection
+  content:
+    filters:
+      folders:
+      - event
+    text: |-
+      Click :point_right: **[here](./tests/)** to access the tests I have developed
+      
+      {{% callout note %}}
+      **N.B.**: You do not need to contact me to ask for permission
+      to use any of the tests and resources provided in the website
+      {{% /callout %}}
+      
+    title: Psychometric Tests
+  design:
+    columns: "2"
+    view: compact
+  id: tests
+
+#blog posts
 - block: collection
   content:
     count: 1
