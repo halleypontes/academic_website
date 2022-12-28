@@ -92,7 +92,9 @@ sections:
       - publication
     text: |-
       {{% callout note %}}
-      See more by **[filtering publications](./publication/)**
+      Filter **[Selected Publications](./publication/)**
+      
+      **N.B.**: Full list of publications available from **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes/research)**
       {{% /callout %}}
     title: Selected Publications
   design:
