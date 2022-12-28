@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dr. Halley Pontes # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://halleypontes.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE

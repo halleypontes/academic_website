@@ -83,7 +83,7 @@ sections:
     view: card
   id: publications
 
-#recent pubs
+#selected pubs - excludes featured
 - block: collection
   content:
     filters:
@@ -92,12 +92,12 @@ sections:
       - publications
     text: |-
       {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
+      See more by **[filtering publications](./publications/)**
       {{% /callout %}}
-    title: Recent Publications
+    title: Selected Publications
   design:
     columns: "2"
-    view: citation
+    view: cite
   id: publications
 
 #Menu 'Tests'
