@@ -184,7 +184,7 @@ sections:
     - Mon to Fri 10:00 to 18:00
     phone: +44 (0) 203 926 1770 
     subtitle: null
-    text: You can reach me by sending a message filling out the form below or       contacting me through any of my social media profiles.
+#    text: You can reach me by sending a message filling out the form below or  #     contacting me through any of my social media profiles.
     title: Contact
   design:
     columns: "2"
