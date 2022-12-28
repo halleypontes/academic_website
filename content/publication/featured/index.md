@@ -29,9 +29,9 @@ publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Behavioral Addictions*
-#publication_short: In *ICW*
+#publication_short: In *xxx*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus #urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis #id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. #Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec #volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: My most recent book ‘**Behavioral Addictions**’ covers the latest findings concerning ten unique non substance-based addictive disorders, describing their behavioral, biological and epidemiological aspects. The book also highlights challenges in prevention and treatment of behavioral addictions.
@@ -52,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/book/10.1007/978-3-031-04772-5'
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -65,7 +65,7 @@ image:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   E.g. `internal-project` references #`content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
   - []
@@ -77,7 +77,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 Hi all, I am really excited to let you know that my latest book titled **'Behavioral Addictions'** has now been published by Springer. This book offers a unique international perspective on ten unique non-substance addictive disorders. I would like to thank all colleagues who contributed to this book as without them publishing the book wouldn’t have been possible at all.
 
 The book **'Behavioral Addictions'** provides a holistic evidence-based perspective on conceptual, clinical, assessment, and treatment aspects of key non-substance-based addictive disorders related to: gambling, gaming, social media, smartphone, internet, love, sex, exercise, work, and shopping.
