@@ -94,7 +94,7 @@ sections:
       {{% callout note %}}
       Filter **[Selected Publications](./publication/)**
       
-      **N.B.**: Full list of publications available from **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes/research)**
+      **N.B.**: Full list of publications available from **[ResearchGate :globe_with_meridians:](https://www.researchgate.net/profile/Halley-Pontes/research)**
       {{% /callout %}}
     title: Selected Publications
   design:
