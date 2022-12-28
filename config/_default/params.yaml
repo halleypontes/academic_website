@@ -21,7 +21,7 @@ marketing:
     description: 'Dr. Halley Pontes is a psychologist researching mental health and well-being issues associated with emerging addictive behaviors such as gaming disorder, social media addiction, and internet addiction.'
     twitter: 'DrHalleyPontes'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-103626771-1'
     baidu_tongji: ''
   verification:
     google: ''

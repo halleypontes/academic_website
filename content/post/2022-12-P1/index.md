@@ -3,11 +3,10 @@ authors:
 - admin
 #- author2
 
-
 categories:
 - Announcements
 #- Category 1
-date: "2022-12-28T00:00:00Z"
+date: "2022-12-29T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -15,7 +14,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2022-12-28T00:00:00Z"
+lastmod: "2022-12-29T00:00:00Z"
 projects: []
 subtitle: "Hello everyone \U0001F44B" #Inside post
 summary: "New year, new website made in R!" #Pagina principal
