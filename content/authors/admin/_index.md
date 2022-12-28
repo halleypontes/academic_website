@@ -76,8 +76,9 @@ social:
 #- icon: cv
 #  icon_pack: ai
 #  link: uploads/resume.pdf
-status:
-  icon: 💬 #☕️💡💬 📚 👉 ❤️ 🦄✨*
+
+#status:
+#  icon: 💬 #☕️💡💬 📚 👉 ❤️ 🦄✨*
 
 #emoji cheat sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 
