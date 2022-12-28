@@ -167,6 +167,10 @@ sections:
     # appointment_url: https://calendly.com FOR LATER
     autolink: true
     contact_links:
+    - icon: envelope
+      icon_pack: fas
+      link: mailto:contactme@halleypontes.com
+      name: Email
     - icon: twitter
       icon_pack: fab
       link: https://twitter.com/DrHalleyPontes
@@ -175,7 +179,6 @@ sections:
       icon_pack: fab
       link: https://metalhead.club/@DrHalleyPontes
       name: Mastodon
-    email: contactme@halleypontes.com
     form:
       formspree:
         id: null
