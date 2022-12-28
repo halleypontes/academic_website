@@ -12,17 +12,17 @@ main:
     url: '#experience'
     weight: 20  
 
+  - name: Tests
+    url: '#tests'
+    weight: 30
+
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 40
   
 #  - name: Talks
 #    url: '#talks'
 #    weight: 30
-  
-  - name: Tests
-    url: '#tests'
-    weight: 40
   
   - name: Blog
     url: '#posts'

@@ -4,7 +4,7 @@ author_notes:
 - Nottingham Trent University, Nottingham, United Kingdom
 - Nottingham Trent University, Nottingham, United Kingdom
 authors:
-- Halley M. Pontes
+- admin
 - Mark D. Griffiths
 date: "2016-04-08T00:00:00Z"
 doi: "10.1089/cyber.2015.0605"

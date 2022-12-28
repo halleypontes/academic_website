@@ -37,7 +37,7 @@ sections:
 #        Council in partnership with Dr. Jason Satel, a member of the School of 
 #        Psychological Sciences
       location: Launceston, Australia
-      title: Honorary Lecturer in Psychology
+      title: Adjunct Lecturer in Psychology
 
     - company: University of Tasmania
       company_logo: utas
@@ -70,6 +70,26 @@ sections:
     columns: "2"
   id: experience
 
+#Menu 'Tests'
+- block: collection
+  content:
+    filters:
+      folders:
+      - event
+    text: |-
+      Click :point_right: **[here](./tests/)** to access the tests I have developed
+      
+      {{% callout note %}}
+      **N.B.**: You do not need to contact me to ask for permission
+      to use any of the tests and resources provided in the website
+      {{% /callout %}}
+      
+    title: Psychometric Tests
+  design:
+    columns: "2"
+    view: compact
+  id: tests
+
 #featured pubs
 - block: collection
   content:
@@ -101,26 +121,6 @@ sections:
     columns: "2"
     view: cite
   id: publications
-
-#Menu 'Tests'
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    text: |-
-      Click :point_right: **[here](./tests/)** to access the tests I have developed
-      
-      {{% callout note %}}
-      **N.B.**: You do not need to contact me to ask for permission
-      to use any of the tests and resources provided in the website
-      {{% /callout %}}
-      
-    title: Psychometric Tests
-  design:
-    columns: "2"
-    view: compact
-  id: tests
 
 #blog posts
 - block: collection

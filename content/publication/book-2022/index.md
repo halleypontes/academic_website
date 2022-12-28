@@ -36,7 +36,7 @@ publication: In *Behavioral Addictions*
 # Summary. An optional shortened abstract.
 summary: My most recent book ‘**Behavioral Addictions**’ covers the latest findings concerning ten unique non substance-based addictive disorders, describing their behavioral, biological and epidemiological aspects. The book also highlights challenges in prevention and treatment of behavioral addictions.
 
-tags: [Featured Publication]
+tags: [Books]
 
 # Display this page in the Featured widget?
 featured: true

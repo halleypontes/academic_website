@@ -6,7 +6,7 @@ author_notes:
 - Eötvös Loránd University, Budapest, Hungary
 - Nottingham Trent University, Nottingham, United Kingdom
 authors:
-- Halley M. Pontes
+- admin
 - Orsolya Király
 - Zsolt Demetrovics
 - Mark D. Griffiths
@@ -14,7 +14,7 @@ date: "2014-10-14T00:00:00Z"
 doi: "10.1371/journal.pone.0110137"
 featured: false
 image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  caption: 'Image credit: [**PLOS**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: true
 publication: PLOS ONE

@@ -4,13 +4,13 @@ author_notes:
 - Nottingham Trent University, Nottingham, United Kingdom
 - Nottingham Trent University, Nottingham, United Kingdom
 authors:
-- Halley M. Pontes
+- admin
 - Mark D. Griffiths
 date: "2014-12-22T00:00:00Z"
 doi: "10.1016/j.chb.2014.12.006"
 featured: false
 image:
-#  caption: 'Image credit: [**ScienceDirect**](https://www.sciencedirect.com/journal/computers-in-human-behavior/vol/45/suppl/C)'
+#  caption: 'Image credit: [**Elsevier Ltd.**](https://www.sciencedirect.com/journal/computers-in-human-behavior/vol/45/suppl/C)'
   focal_point: ""
   preview_only: true
 publication: Computers in Human Behavior
