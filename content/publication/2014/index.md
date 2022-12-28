@@ -1,11 +1,15 @@
 ---
 # abstract: 
 author_notes:
-#- Equal contribution
-#- Equal contribution
+- Nottingham Trent University, Nottingham, United Kingdom
+- Eötvös Loránd University, Budapest, Hungary
+- Eötvös Loránd University, Budapest, Hungary
+- Nottingham Trent University, Nottingham, United Kingdom
 authors:
-- admin
-#- author 2
+- Halley M. Pontes
+- Orsolya Király
+- Zsolt Demetrovics
+- Mark D. Griffiths
 date: "2014-10-14T00:00:00Z"
 doi: "10.1371/journal.pone.0110137"
 featured: false
@@ -16,7 +20,7 @@ image:
 publication: PLOS ONE
 #publication_short: In *ICW*
 publication_types:
-- "1"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 #summary: xxx
