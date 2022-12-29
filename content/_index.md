@@ -125,7 +125,7 @@ sections:
 #blog posts
 - block: collection
   content:
-    count: 1
+    count: 3
     filters:
       author: ""
       category: ""
