@@ -25,7 +25,7 @@ title: Welcome to my new website!
 ---
 Welcome aboard!
 
-I am really excited to release the new version of my website, which was entirely developed using **[R](https://www.r-project.org/)** and **[Hugo](https://gohugo.io/)**.
+I am really excited to release the new version of my website, which was developed using **[R](https://www.r-project.org/)** and **[Hugo](https://gohugo.io/)**.
 
 I hope we can keep connected and that I have enough time to keep you posted about my work.
 
