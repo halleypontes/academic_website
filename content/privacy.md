@@ -24,23 +24,28 @@ This website does not require you to identify yourself and it does not actively 
 
 However, if you opt to contact me directly via the **[Contact](https://www.halleypontes.com/#contact)** form, you will need to provide minimal Personal Data, including your **name** and **email address** so that I can send you a response.
 
-Please note that you may be also sending Personal Data in case you opt to contact me directly via email and/or via any of the social media platforms listed on this website. Any message and/or Personal Data provided to me by you will be confidentially stored in my email inbox and/or the social media platform you contacted me for potential future correspondence.
+Please note that you may be also sending Personal Data in case you opt to contact me directly via email and/or via any of the social media platforms listed on this website. Any message and/or Personal Data provided to me by you will be confidentially stored in the platform you have used to contact me for potential future correspondence.
 
-If this is not your wish, please either do not contact me or in case you do, explicitly mention in your message to me that you want me to delete your message and/or any Personal Data provided to me by you, that I have control of.
-
-All such requests for deletion of messages and/or Personal Data will be complied with. However, when contacting me you should bear in mind the Privacy Policy and Data Retention practices of the service or services you are using to contact me as they may have a different policy.
+If you are not contacting me via this website, please check the Privacy Policy of the service used to contact me as it may differ from this policy.
 
 ## **Use of cookies and tracking**
 This website does not use **[cookies](https://www.cookiesandyou.com/)** and does not require you to enable them in order to fully access its contents.
 
 Note though that most internet browsers allow you to **[enable or disable the use cookies if you wish to do so](https://www.cookiesandyou.com/disable-cookies)**. If your internet browser does not allow you to change your cookies settings, please see the recommendations provided by **[privacyguides.org](https://www.privacyguides.org/)** about the **[Desktop](https://www.privacyguides.org/desktop-browsers/)** and/or **[Mobile](https://www.privacyguides.org/mobile-browsers/)** browsers that will allow you to take full control of your Digital Privacy.
 
-In regards to tracking, I have enabled all **[Hugo Privacy-Enhancing options](https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings)** currently available so that third-party services such as Google Analytics are disabled on this website.
+In regards to tracking, I have enabled all **[Hugo privacy-enhancing options](https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings)** currently available so that third-party services such as Google Analytics are entirely disabled on this website.
 
 ## **Sharing of Personal Data**
 Unless you explicitly contact me and provide some form of Personal Data, this website does not collect any form of Personal Data that I can share with other stakeholders and/or third parties.
 
 Any message you sent me by contacting me will be kept confidential and will not be shared with anyone unless you are explicitly informed otherwise.
+
+## **Your right to erasure (‘right to be forgotten’)**
+Based on the functionalities provided by this website and the current General Data Protection Regulation  (GDPR) legislation (see documentation **[here](https://gdpr-info.eu/art-17-gdpr/)**), you have the right to request that any Personal Data you may have sent me by contacting me via this website to be deleted.
+
+If you do not wish to send any Personal Data in the first place, please do not contact me. However, in case you do and also wish to exercise your right to erasure, please send me an **[email](mailto:contactme@halleypontes.com)** requesting that any information and/or Personal Data that I may hold be deleted.
+
+All such deletion requests will be complied with and your request will be acknowledged.
 
 ## **Does Digital Privacy matter? Why should I care?**
 Digital Privacy is a basic human right that everyone should care about, particularly in this day and age where so called big tech companies adopt all sorts of strategies and questionable practices to obtain Personal Data for different purposes that often times only serve their own capitalistic interests.

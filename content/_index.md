@@ -183,7 +183,7 @@ sections:
       formspree:
         id: null
       netlify:
-        captcha: true
+        captcha: false
       provider: netlify
     office_hours:
     - Mon to Fri 10:00 to 18:00
