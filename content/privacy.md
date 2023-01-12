@@ -52,7 +52,7 @@ If you wish to learn more about the importance of Digital Privacy, please visit 
 
 If you wish to take further actions and active steps toward safeguarding your Digital Privacy, please see the recommendations provided by **[privacyguides.org](https://www.privacyguides.org/tools/)**, a a non-profit collective operated entirely by volunteers.
 
-**Last update**: 11 January 2023
+**Last update**: 12 January 2023
 {style="text-align: center;"}
 **Effective date**: 01 January 2023
 {style="text-align: center;"}
