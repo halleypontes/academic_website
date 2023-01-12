@@ -47,14 +47,12 @@ If you do not wish to send any Personal Data in the first place, please do not c
 
 All such deletion requests will be complied with and your request will be acknowledged.
 
-## **Does Digital Privacy matter? Why should I care?**
-Digital Privacy is a basic human right that everyone should care about, particularly in this day and age where so called big tech companies adopt all sorts of strategies and questionable practices to obtain Personal Data for different purposes that often times only serve their own capitalistic interests.
-
+## **Further Resources**
 If you wish to learn more about the importance of Digital Privacy, please visit the **[Electronic Frontier Foundation (EFF)](https://www.eff.org/issues/privacy)** website to learn more about why it matters and why you should care about it.
 
 If you wish to take further actions and active steps toward safeguarding your Digital Privacy, please see the recommendations provided by **[privacyguides.org](https://www.privacyguides.org/tools/)**, a a non-profit collective operated entirely by volunteers.
 
-**Last update**: 01 January 2023
+**Last update**: 12 January 2023
 {style="text-align: center;"}
 **Effective date**: 01 January 2023
 {style="text-align: center;"}
