@@ -35,6 +35,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/uk5zn)**
 
+* **[Italian](https://doi.org/10.1007/s12671-022-02066-4)**: Download **[here](https://osf.io/udek3)**
+
 * **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
 * **[Polish](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://osf.io/sy8f7)**
