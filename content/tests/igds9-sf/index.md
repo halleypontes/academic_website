@@ -59,4 +59,4 @@ The IGDS9-SF has been widely used in research on disordered gaming and several c
 
 * **[Turkish](https://doi.org/10.1016/j.psychres.2018.05.002)**: Download **[here](https://osf.io/fvg7n)**
 
-If you wish to further develop and validate the GDT in another language, please do get with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
+If you wish to further develop and validate the GDT in another language, please do get in touch with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
