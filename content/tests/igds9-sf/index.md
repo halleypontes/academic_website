@@ -27,36 +27,36 @@ A recent study published in the **[Journal of Medical Internet Research](https:/
 
 The IGDS9-SF has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate the test in other languages. Languages in which the test has been developed so far include:
 
-* **[Bangladeshi](https://doi.org/10.1371/journal.pone.0279062)**: Download **[soon]()**
+* **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download **[here](https://osf.io/8v9kb)**
 
-* **[Chinese [Taiwan]](https://doi.org/10.1007/s11126-018-9610-7)**: Download **[here](https://drive.proton.me/urls/V8VHWMSE0G#Ah2nAr8EFdNn)**
+* **[Chinese [Taiwan]](https://doi.org/10.1007/s11126-018-9610-7)**: Download **[here](https://osf.io/9fmkr)**
 
-* **[Chinese [Hong Kong]](https://doi.org/10.1007/s11126-018-9610-7)**: Download **[here](https://drive.proton.me/urls/SGKCA94S4W#YHaisVJe9O9m)**
+* **[Chinese [Hong Kong]](https://doi.org/10.1007/s11126-018-9610-7)**: Download **[here](https://osf.io/4d3y6)**
 
-* **[Czech](https://theses.cz/id/9rdt06/)**: Download **[here](https://drive.proton.me/urls/54HP2DDV4R#K5ugNKXPnQyh)**
+* **[Czech](https://theses.cz/id/9rdt06/)**: Download **[here](https://osf.io/n4ugk)**
 
-* **[English](https://doi.org/10.1016/j.chb.2014.12.006)**: Download **[here](https://drive.proton.me/urls/BDX9GDAJ7R#Gs5y1oiAbjf3)**
+* **[English](https://doi.org/10.1016/j.chb.2014.12.006)**: Download **[here](https://osf.io/cz4vu)**
 
-* **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://drive.proton.me/urls/5NN1VFBVK4#8YwFXOOF5SqS)**
+* **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/76y4g)**
 
-* **[Korean](https://doi.org/10.1089/cyber.2020.0227)**: Download **[here](https://drive.proton.me/urls/WDP0Y8119M#punl76rb52oO)**
+* **[Korean](https://doi.org/10.1089/cyber.2020.0227)**: Download **[here](https://osf.io/grhkt)**
 
-* **[Malay Study 1](https://doi.org/10.1007/s12144-020-00668-6)**/**[Malay Study 2](https://doi.org/10.3390/ijerph18052592)**: Download **[here](https://drive.proton.me/urls/0NBF4BK1QR#OiZzWu0Au9fU)**
+* **[Malay Study 1](https://doi.org/10.1007/s12144-020-00668-6)**/**[Malay Study 2](https://doi.org/10.3390/ijerph18052592)**: Download **[here](https://osf.io/u5na2)**
 
-* **[Slovenian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.042)**: Download  **[here](https://drive.proton.me/urls/GYAG5KSYGR#qEBnfq1yIyDW)**
+* **[Slovenian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.042)**: Download  **[here](https://osf.io/fnmw5)**
 
-* **[Italian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.083)**: Download **[here](https://drive.proton.me/urls/0M9XK9QNH0#Y4w4yWdqDyTT)**
+* **[Italian](http://akademiai.com/doi/abs/10.1556/2006.5.2016.083)**: Download **[here](https://osf.io/6zjkp)**
 
-* **[Persian](http://akademiai.com/doi/abs/10.1556/2006.6.2017.025)**: Download **[here](https://drive.proton.me/urls/FVAGYDZZMM#GVSfesdcIwlG)**
+* **[Persian](http://akademiai.com/doi/abs/10.1556/2006.6.2017.025)**: Download **[here](https://osf.io/dw45e)**
 
-* **[Polish](https://doi.org/10.1016/j.abrep.2018.06.004)**: Download **[here](https://drive.proton.me/urls/DY8HCNCB80#9gsu0TNVPLOg)**
+* **[Polish](https://doi.org/10.1016/j.abrep.2018.06.004)**: Download **[here](https://osf.io/6w2eb)**
 
-* **[Portuguese (European)](https://doi.org/10.1089/cyber.2015.0605)**: Download  **[here](https://drive.proton.me/urls/C7CAQW5PS0#JdIxW8doXXCr)**
+* **[Portuguese (European)](https://doi.org/10.1089/cyber.2015.0605)**: Download  **[here](https://osf.io/ec2qu)**
 
-* **[Portuguese (South American)](https://doi.org/10.1016/j.addbeh.2019.106191)**: Download **[here](https://drive.proton.me/urls/HWS6F68VBW#OLLodan12f0M)**
+* **[Portuguese (South American)](https://doi.org/10.1016/j.addbeh.2019.106191)**: Download **[here](https://osf.io/egc6p)**
 
-* **[Spanish Study 1](https://doi.org/10.3390/ijerph17051562)**/**[Spanish Study 2](https://doi.org/10.1017/SJP.2020.26)**/**[Spanish Study 3](https://doi.org/10.3390/ijerph17197111)**: Download **[here](https://drive.proton.me/urls/FPT3EJQ74G#r3UWXAW48XrC)**
+* **[Spanish Study 1](https://doi.org/10.3390/ijerph17051562)**/**[Spanish Study 2](https://doi.org/10.1017/SJP.2020.26)**/**[Spanish Study 3](https://doi.org/10.3390/ijerph17197111)**: Download **[here](https://osf.io/2a6n9)**
 
-* **[Turkish](https://doi.org/10.1016/j.psychres.2018.05.002)**: Download **[here](https://drive.proton.me/urls/NYEGWFG704#qjxlpOEjI6H1)**
+* **[Turkish](https://doi.org/10.1016/j.psychres.2018.05.002)**: Download **[here](https://osf.io/fvg7n)**
 
-If you wish to further develop and validate the IGDS9-SF in another language, please do get in touch with Dr. Halley M. Pontes with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts (see below at the end of the page).
+If you wish to further develop and validate the GDT in another language, please do get with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
