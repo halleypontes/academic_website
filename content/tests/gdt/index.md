@@ -41,4 +41,4 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Spanish (European)](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://drive.proton.me/urls/01GHX6STW0#VYCjaC38Qelm)**
 
-If you wish to further develop and validate the GDT in another language, please do get in touch with Dr. Halley M. Pontes with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts (see below at the end of the page).
+If you wish to further develop and validate the GDT in another language, please do get with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts (see below at the end of the page).
