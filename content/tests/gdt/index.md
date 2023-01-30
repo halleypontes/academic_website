@@ -27,7 +27,7 @@ The GDT has been extensively investigated at the psychometric level across sever
 
 The GDT can be used in time-limited research on GD and future studies using clinical samples, longitudinal, and cross-cultural designs are necessary to consolidate the initial findings obtained in the original study. Languages in which the test has been developed so far include:
 
-* **[Bangladeshi](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[soon]()**
+* **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[here](https://osf.io/gm4b3)**
 
 * **[Chinese [Mandarin]](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://drive.proton.me/urls/3NTMET86WR#cfKa1Fv9cQBi)**
 
