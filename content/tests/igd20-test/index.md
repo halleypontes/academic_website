@@ -24,18 +24,18 @@ The IGD-20 Test had its psychometric properties extensively investigated and mul
 
 The IGD-20 Test has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate the test in other languages. Languages in which the test has been developed so far include:
 
-* **[English](https://doi.org/10.1371/journal.pone.0110137)**: Download **[here](https://drive.proton.me/urls/TH5NB72ME4#1gfzY84hJ0vr)**
+* **[English](https://doi.org/10.1371/journal.pone.0110137)**: Download **[here](https://osf.io/r42my)**
 
-* **[Spanish](https://doi.org/10.1016/j.chb.2015.11.050)**: Download **[here](https://drive.proton.me/urls/DCH518FKR0#wD9RKrBTnmZo)**
+* **[Spanish](https://doi.org/10.1016/j.chb.2015.11.050)**: Download **[here](https://osf.io/x32da)**
 
-* **[Arabic](https://doi.org/10.1089/cyber.2016.0493)**: Download **[here](https://drive.proton.me/urls/683CRGKSRM#67F7qzdfh7Yb)**
+* **[Arabic](https://doi.org/10.1089/cyber.2016.0493)**: Download **[here](https://osf.io/n5d2k)**
 
-* **[Korean](https://doi.org/10.1089/cyber.2018.0096)**: Download **[here](https://drive.proton.me/urls/YAB74DG9FW#qlk5LmHogL7h)**
+* **[Korean](https://doi.org/10.1089/cyber.2018.0096)**: Download **[here](https://osf.io/gfksp)**
 
-* **[Chinese](https://doi.org/10.1556/2006.8.2019.18)**: Download **[here](https://drive.proton.me/urls/C7F5KR44E0#wnHIZs7IrX0r)**
+* **[Chinese](https://doi.org/10.1556/2006.8.2019.18)**: Download **[here](https://osf.io/gxc7b)**
 
-* **[Turkish](https://doi.org/10.5080/u23537)**: Download **[here](https://drive.proton.me/urls/5HC7RSWWTC#91AE7djTYUMI)**
+* **[Turkish](https://doi.org/10.5080/u23537)**: Download **[here](https://osf.io/ehs97)**
 
-* **[Polish](https://doi.org/10.12740/PP/125656)**: Download **[here](https://drive.proton.me/urls/7V40BCA200#ModnIgPVrhjH)**
+* **[Polish](https://doi.org/10.12740/PP/125656)**: Download **[here](https://osf.io/vb25j)**
 
-If you wish to further develop and validate the IGD-20 Test in another language, please do get in touch with Dr. Halley M. Pontes with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts (see below at the end of the page).
+If you wish to further develop and validate the IGD-20 Test in another language, please do get in touch with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
