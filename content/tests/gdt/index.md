@@ -27,18 +27,18 @@ The GDT has been extensively investigated at the psychometric level across sever
 
 The GDT can be used in time-limited research on GD and future studies using clinical samples, longitudinal, and cross-cultural designs are necessary to consolidate the initial findings obtained in the original study. Languages in which the test has been developed so far include:
 
-* **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[here](https://osf.io/gm4b3)**
+* **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[here](https://osf.io/vgj2t)**
 
-* **[Chinese [Mandarin]](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://drive.proton.me/urls/3NTMET86WR#cfKa1Fv9cQBi)**
+* **[Chinese [Mandarin]](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/gywa7)**
 
-* **[English](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://drive.proton.me/urls/7E7CXQR0KR#zo62ZGoGgN0U)**
+* **[English](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/bz5ka)**
 
-* **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://drive.proton.me/urls/QGCZERY8B8#iSwuFPyAZyt4)**
+* **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/uk5zn)**
 
-* **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://drive.proton.me/urls/SWFF4T7ZTM#zrFNnwzdJf7p)**
+* **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
-* **[Polish](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://drive.proton.me/urls/NX6PKNC7BG#hc43fuysMAE9)**
+* **[Polish](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://osf.io/sy8f7)**
 
-* **[Spanish (European)](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://drive.proton.me/urls/01GHX6STW0#VYCjaC38Qelm)**
+* **[Spanish (European)](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://osf.io/ugwhe)**
 
-If you wish to further develop and validate the GDT in another language, please do get with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts (see below at the end of the page).
+If you wish to further develop and validate the GDT in another language, please do get with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
