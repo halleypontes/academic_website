@@ -29,7 +29,7 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[here](https://osf.io/vgj2t)**
 
-* **[Chinese [Mandarin]](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/gywa7)**
+* **[Chinese [Mandarin] Study 1](https://doi.org/10.1007/s11469-019-00088-z)** / **[Chinese [Mandarin] Study 2](https://doi.org/10.1016/j.ajp.2023.103638)**: Download  **[here](https://osf.io/gywa7)**
 
 * **[English](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/bz5ka)**
 
