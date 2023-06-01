@@ -179,7 +179,6 @@ sections:
       icon_pack: fab
       link: https://metalhead.club/@DrHalleyPontes
       name: Mastodon
-
     form:
       formspree:
         id: null
