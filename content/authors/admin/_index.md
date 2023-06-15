@@ -92,5 +92,5 @@ I am a Chartered Psychologist of the British Psychological Society (CPsychol), M
 I received my PhD from the Nottingham Trent University in the United Kingdom and have published numerous studies (see my **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes/research)** profile for a full list) in several scientific journals and presented my research work at numerous international conferences. My research has been previously awarded with the Durand Jacobs Award from McGill University (Canada) and the Early Career Research Award from the Australian Psychological Society (Australia) for its contributions to the psychology of addictive behaviors and cyberpsychology.
 {style="text-align: justify;"}
 
-My **[PGP Public Key](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint (for contactme [at] halleypontes.com) is: 4283 AED0 3FFF B0BF D054  E299 791F 3A61 FC84 D6E3.
+My **[PGP Public Key](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint (for contactme [at] halleypontes.com) is: DE26 2BED FB0D C0ED 97F7  DD95 234E 9809 AEDA EAC8.
 {style="text-align: justify;"}
