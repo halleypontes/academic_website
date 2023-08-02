@@ -13,7 +13,7 @@ projects: []
 tags: [Tests,GDT]
 title: The Gaming Disorder Test (GDT)
 ---
-The GDT **[(Pontes et al., 2020)](https://doi.org/10.1007/s11469-019-00088-z)** is the first brief standardized psychometric tool to assess Gaming Disorder (GD) in light of the diagnostic criteria developed by World Health Organization in the latest beta draft revision of the _International Classification of Diseases 11th Revision_ (ICD-11).
+The GDT **[(Pontes et al., 2021)](https://doi.org/10.1007/s11469-019-00088-z)** is the first brief standardized psychometric tool to assess Gaming Disorder (GD) in light of the diagnostic criteria developed by World Health Organization in the latest beta draft revision of the _International Classification of Diseases 11th Revision_ (ICD-11).
 
 The GDT is a unidimensional tool comprising a total of 4 items measuring the clinical criteria for GD as in the ICD-11. The GDT was originally developed in a cross-cultural study including a large sample of Chinese (47% male, mean age 19.22 years, SD = 1.57) and British gamers (49.4% male, mean age 26.74 years, SD = 7.88) recruited online.
 
@@ -36,6 +36,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 * **[German](https://doi.org/10.3390/jcm8101691)**: Download **[here](https://osf.io/uk5zn)**
 
 * **[Italian](https://doi.org/10.1007/s12671-022-02066-4)**: Download **[here](https://osf.io/udek3)**
+
+* **[Malay](https://doi.org/10.1177/01632787231185845)**: Download **[here](https://osf.io/48wm5)**
 
 * **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
