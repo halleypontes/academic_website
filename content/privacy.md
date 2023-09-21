@@ -50,9 +50,7 @@ All such deletion requests will be complied with and your request will be acknow
 ## **Further Resources**
 If you wish to learn more about the importance of Digital Privacy, please visit the **[Electronic Frontier Foundation (EFF)](https://www.eff.org/issues/privacy)** website to learn more about why it matters and why you should care about it.
 
-If you wish to take further actions and active steps toward safeguarding your Digital Privacy, please see the recommendations provided by **[privacyguides.org](https://www.privacyguides.org/tools/)**, a non-profit collective operated entirely by volunteers.
-
-**Last update**: 03 May 2023
+**Last update**: 21 September 2023
 {style="text-align: center;"}
-**Effective date**: 03 May 2023
+**Effective date**: 21 September 2023
 {style="text-align: center;"}
