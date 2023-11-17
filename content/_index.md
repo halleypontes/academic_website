@@ -25,7 +25,7 @@ sections:
 #          * Teaching organizational psychology students
 #          * Supervising of research students (MSc and Doctoral)
       location: London, United Kingdom
-      title: Lecturer in Psychology
+      title: Senior Lecturer in Psychology
       
     - company: University of Tasmania
       company_logo: utas
