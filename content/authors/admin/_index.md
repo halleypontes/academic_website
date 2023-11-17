@@ -32,7 +32,7 @@ organizations:
 - name: Birkbeck, University of London
   url: https://www.bbk.ac.uk/
 
-role: Lecturer in Psychology
+role: Senior Lecturer in Psychology
 
 social:
 - icon: envelope
@@ -86,7 +86,7 @@ superuser: true
 
 title: Dr. Halley Pontes
 ---
-I am a Chartered Psychologist of the British Psychological Society (CPsychol), Member of the Australian Psychological Society (MAPS), and Chartered Scientist (CSci) of the Science Council. I am currently working as a researcher and lecturer at Birkbeck, University of London in the United Kingdom. I am interested in researching mental health and well-being issues associated with emerging addictive behaviors such as gaming disorder, social media addiction, and internet addiction.
+I am a Chartered Psychologist of the British Psychological Society (CPsychol), Member of the Australian Psychological Society (MAPS), and Chartered Scientist (CSci) of the Science Council. I am currently working in the School of Psychological Sciences at Birkbeck, University of London in the United Kingdom as a Senior Lecturer. I am interested in researching mental health and well-being issues associated with emerging addictive behaviors such as gaming disorder, social media addiction, and internet addiction.
 {style="text-align: justify;"}
 
 I received my PhD from the Nottingham Trent University in the United Kingdom and have published numerous studies (see my **[ResearchGate](https://www.researchgate.net/profile/Halley-Pontes/research)** profile for a full list) in several scientific journals and presented my research work at numerous international conferences. My research has been previously awarded with the Durand Jacobs Award from McGill University (Canada) and the Early Career Research Award from the Australian Psychological Society (Australia) for its contributions to the psychology of addictive behaviors and cyberpsychology.
