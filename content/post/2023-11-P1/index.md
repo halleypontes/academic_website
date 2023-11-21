@@ -36,8 +36,6 @@ The projects being currently developed in Slovenia are in my view leading and sh
 
 A special thanks to Dr. Špela Selak, Mark Zmavc, Sanja Tkalec, and Tamara Arh who have all worked very hard to put up such an amazing conference.
 
-![Myself with Dr. Špela Selak ](/Cloud/project/content/post/2023-11-P1/image.png)
-
 # {style="text-align: justify;"}
 
 Stay tuned and follow me on **[Mastodon](https://metalhead.club/@DrHalleyPontes)** and **[Twitter](https://twitter.com/@DrHalleyPontes)** for real-time updates on what's happening next!
