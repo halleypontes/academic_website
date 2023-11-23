@@ -93,4 +93,4 @@ I received my PhD from the Nottingham Trent University in the United Kingdom and
 {style="text-align: justify;"}
 
 My **[PGP Public Key](https://drive.proton.me/urls/GYZNM1652C#C34xqQi4LYoU)** fingerprint (for contactme [at] halleypontes.com) is: DE26 2BED FB0D C0ED 97F7  DD95 234E 9809 AEDA EAC8.
-{style="text-align: justify;"} 
+{style="text-align: justify;"}
