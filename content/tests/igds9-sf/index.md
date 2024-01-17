@@ -13,7 +13,7 @@ projects: []
 tags: [Tests, IGDS9-SF]
 title: Internet Gaming Disorder Scale–Short-Form (IGDS9-SF)
 ---
-The IGDS9-SF **[(Pontes et al., 2015)](https://doi.org/10.1016/j.chb.2014.12.006)** was the first brief standardized psychometric tool to assess Internet Gaming Disorder (IGD) according according to the nine clinical criteria developed by the American Psychiatric Association in the latest edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
+The IGDS9-SF **[(Pontes et al., 2015)](https://doi.org/10.1016/j.chb.2014.12.006)** was the first brief standardized psychometric tool to assess Internet Gaming Disorder (IGD) according to the nine clinical criteria developed by the American Psychiatric Association in the latest edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-5).
 
 The IGDS9-SF is a brief unidimensional psychometric test including a total of nine items reflecting all nine criteria for IGD outlined in the DSM-5. The IGDS9-SF was originally developed in a heterogeneous sample of 1.397 English-speaking gamers (85.1% males; mean age 27 years).
 
