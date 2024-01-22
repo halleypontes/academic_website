@@ -27,6 +27,8 @@ A recent study published in the **[Journal of Medical Internet Research](https:/
 
 The IGDS9-SF has been widely used in research on disordered gaming and several cross-cultural psychometric studies were conducted to validate the test in other languages. Languages in which the test has been developed so far include:
 
+* **[Arabic]( https://doi.org/10.3389/fpubh.2023.1231550)**: Contact the **[author](mailto:drmogeda@gmail.com)**
+
 * **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download **[here](https://osf.io/8v9kb)**
 
 * **[Chinese [Taiwan]](https://doi.org/10.1007/s11126-018-9610-7)**: Download **[here](https://osf.io/9fmkr)**
