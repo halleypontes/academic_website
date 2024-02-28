@@ -39,10 +39,12 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Malay](https://doi.org/10.1177/01632787231185845)**: Download **[here](https://osf.io/48wm5)**
 
-* **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
+* **[Polish](http://http://cspsychiatr.cz/detail.php?stat=1386)**: Download **[here](https://osf.io/sy8f7)**
 
-* **[Polish](https://doi.org/10.1007/s11469-022-00929-4)**: Download **[here](https://osf.io/sy8f7)**
+* **[Slovak](https://doi.org/10.1371/journal.pone.0279062)**: Contact the **[author](mailto:martoncik@protonmail.ch)**
 
 * **[Spanish (European)](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://osf.io/ugwhe)**
+
+* **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
 If you wish to further develop and validate the GDT in another language, please do get in touch with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
