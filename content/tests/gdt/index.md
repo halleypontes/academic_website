@@ -29,7 +29,7 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Bengali](https://doi.org/10.1371/journal.pone.0279062)**: Download  **[here](https://osf.io/vgj2t)**
 
-* **[Chinese [Mandarin] Study 1](https://doi.org/10.1007/s11469-019-00088-z)** / **[Chinese [Mandarin] Study 2](https://doi.org/10.1016/j.ajp.2023.103638)**: Download  **[here](https://osf.io/gywa7)**
+* **[Chinese Study 1](https://doi.org/10.1007/s11469-019-00088-z)** / **[Chinese Study 2](https://doi.org/10.1016/j.ajp.2023.103638)**: Download  **[here](https://osf.io/gywa7)**
 
 * **[English](https://doi.org/10.1007/s11469-019-00088-z)**: Download  **[here](https://osf.io/bz5ka)**
 
@@ -44,6 +44,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 * **[Slovak](http://cspsychiatr.cz/detail.php?stat=1386)**: Download **[here](https://osf.io/dnvrx)**
 
 * **[Spanish (European)](https://doi.org/10.1007/s11469-021-00704-x)**: Download **[here](https://osf.io/ugwhe)**
+
+* **[Swedish](https://doi.org/10.1111/sjop.13010)**: Download **[here](https://osf.io/fp36n)**
 
 * **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
