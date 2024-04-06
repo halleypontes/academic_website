@@ -1,0 +1,13 @@
+@article{PONTES2024,
+title = {Investigating the interplay between gaming disorder and functional impairments in professional esports gaming},
+journal = {Scientific Reports},
+volume = {14},
+pages = {6557},
+year = {2024},
+issn = {2045-2322},
+doi = {https://doi.org/10.1038/s41598-024-56358-x},
+url = {https://www.nature.com/articles/s41598-024-56358-x},
+author = {Halley M. Pontes and Hans-Jürgen Rumpf and Špela Selak and Christian Montag},
+keywords = {Gaming Disorder, World Health Organization, Functional impairments, Esports, Professional gaming},
+abstract = {The relationship between Gaming Disorder (GD) and the experience of functional impairments has received considerable theoretical attention in the recent past and current diagnostic approaches underscore the centrality of functional impairments as a requirement for GD diagnosis. However, there is limited empirical evidence illuminating the interplay between GD and functional impairments, particularly among specific vulnerable groups. The present study seeks to bridge this gap by investigating an English-speaking sample (N = 5198) comprising an age- and gender-matched group of Professional Gamers (PG, n = 2599) and Non-Professional Gamers (NPG, n = 2599) sub-sampled from a larger sample of 192,260 individuals. The results revealed that PG were at a greater risk for GD compared to NPG as the prevalence rate of GD among PG (3.31%) was significantly higher and almost doubled that of NPG (1.73%), with PG further exhibiting higher overall GD symptom-load and weekly time spent gaming compared to NPG. Furthermore, PG reported experiencing significantly higher frequency of gaming-related functional impairments compared to NPG, with the in particular affected areas for both PG and NPG being ‘school and/or work’, ‘physical health’, and ‘family’, with other key differences emerging in relation to other outcomes. Overall, the present findings show that not only GD symptom-load but also some functional impairment is higher in PG compared to NPG which highlights the need to develop and support prevention and intervention strategies for this at-risk population.}
+}
