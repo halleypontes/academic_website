@@ -47,6 +47,8 @@ The GDT can be used in time-limited research on GD and future studies using clin
 
 * **[Swedish](https://doi.org/10.1111/sjop.13010)**: Download **[here](https://osf.io/fp36n)**
 
+* **[Thai](https://doi.org/10.1080/24732850.2024.2351091)**: Request **[here](mailto:cylin36933@gmail.com)**
+
 * **[Turkish Study 1](http://hdl.handle.net/20.500.12416/4617)** / **[Turkish Study 2](https://dusunenadamdergisi.org/article/1519)**: Download **[here](https://osf.io/cmp96)**
 
 If you wish to further develop and validate the GDT in another language, please do get in touch with me via **[email](mailto:contactme@halleypontes.com)** or any of my social media accounts.
